@@ -1,2 +1,2 @@
-:
-                    client.send(str({
+
+    if winner == 1:
